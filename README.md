@@ -31,5 +31,5 @@ docker-compose up web
 ```
 Để dừng, hãy ấn `Ctrl+C`
 
-Nguồn chính thức từ tác giả:
+## Nguồn
 https://github.com/practical-recommender-systems/moviegeek
