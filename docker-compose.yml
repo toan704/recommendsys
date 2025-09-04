@@ -3,7 +3,7 @@ version: '3'
 services:
   db:
     image: postgres
-    expose:
+    ports:
       -  "5432"
     networks:
       - djangonetwork
