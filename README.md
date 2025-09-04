@@ -14,8 +14,9 @@ Hướng dẫn này cung cấp các bước cài đặt phiên bản tinh chỉn
 
 ## Thiết lập ban đầu
 
-1. Giải nén file `.prs.zip` vào thư mục gốc của dự án.
-2. Mở file `.prs` và nhập API Key đã nhận.
+1. Giải nén file `moviegeek_config.zip` vào thư mục gốc của dự án.
+2. Mở file `.prs` và nhập API Key đã nhận
+3. Kiểm tra ở thư mục gốc đảm bảo xuất hiện 2 files: `.prs` và `db.sqlite3`
 
 ## Cài đặt và khởi chạy
 
