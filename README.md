@@ -30,3 +30,6 @@ docker-compose build web
 docker-compose up web
 ```
 Để dừng, hãy ấn `Ctrl+C`
+
+Nguồn chính thức từ tác giả:
+https://github.com/practical-recommender-systems/moviegeek
