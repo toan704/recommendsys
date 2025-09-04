@@ -1,6 +1,6 @@
 # The MovieGEEK - Hướng dẫn cài đặt
 
-Hướng dẫn này cung cấp các bước cài đặt phiên bản tinh chỉnh của The MovieGEEK để triển khai nhanh chóng và hiệu quả.
+Hướng dẫn này cung cấp các bước cài đặt phiên bản tinh chỉnh của The MovieGEEK để triển khai nhanh chóng và dễ dàng hơn
 
 ## Yêu cầu
 
@@ -28,4 +28,4 @@ docker-compose build web
 ```bash
 docker-compose up web
 ```
-Để dừng, hãy ấn Ctrl+C
+Để dừng, hãy ấn `Ctrl+C`
