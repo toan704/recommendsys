@@ -9,7 +9,7 @@ Hướng dẫn này cung cấp các bước cài đặt phiên bản tinh chỉn
 
 ## Cấu hình API
 
-1. Truy cập [The Movie Database](https://www.themoviedb.org/account/signup) và đăng ký tài khoản.
+1. Truy cập [Themoviedb](https://www.themoviedb.org/account/signup) và đăng ký tài khoản.
 2. Đăng nhập, vào Settings > API, tạo API Key và lưu lại API Key.
 
 ## Thiết lập ban đầu
