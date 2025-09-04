@@ -1,23 +1,31 @@
 # The MovieGEEK - Hướng dẫn cài đặt
-CÀI ĐẶT DOCKER
-### Tải về mã nguồn đã được tinh chỉnh
-   Tải xuống: [MovieGEEK custom](https://github.com/toan704/recommendsys),
-### Tải và cài đặt Docker
-   Tải xuống: [Docker](https://www.docker.com),
-   Phiên bản khuyến nghị: Window - AMD64
-### Đăng kí tài khoản và cấu hình API
-   B1: Truy cập [Themoviedb](https://www.themoviedb.org/account/signup), 
-   B2: Đăng ký
-   B3: Đăng nhập, vào cài đặt tài khoản/API. Điền các thông tin cần thiết và tạo API. Lưu dữ lại API_Key
-### Thiết lập ban đầu
-   B1: Giải nén .prs.zip ra thư mục gốc của project
-   B2: Mở file .prs và điền API_Key của bạn
-### Cài đặt thư viện
-```shell script
+
+Hướng dẫn này cung cấp các bước cài đặt phiên bản tinh chỉnh của The MovieGEEK để triển khai nhanh chóng và hiệu quả.
+
+## Yêu cầu
+
+- Mã nguồn: Tải tại [MovieGEEK Custom](https://github.com/toan704/recommendsys)
+- Docker: Cài đặt từ [Docker](https://www.docker.com) (Khuyến nghị: Windows - AMD64)
+
+## Cấu hình API
+
+1. Truy cập [The Movie Database](https://www.themoviedb.org/account/signup) và đăng ký tài khoản.
+2. Đăng nhập, vào Settings > API, tạo API Key và lưu lại API Key.
+
+## Thiết lập ban đầu
+
+1. Giải nén file `.prs.zip` vào thư mục gốc của dự án.
+2. Mở file `.prs` và nhập API Key đã nhận.
+
+## Cài đặt và khởi chạy
+
+1. Xây dựng ứng dụng cùng các thư viện:
+
+```bash
 docker-compose build web
 ```
-### Khởi chạy
-```shell script
+2. Khởi chạy:
+```bash
 docker-compose up web
 ```
-(để đóng lại bằng cách dừng tiến trình (Cltr+C))
+Để dừng, hãy ấn Ctrl+C
