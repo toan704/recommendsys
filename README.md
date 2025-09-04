@@ -31,7 +31,7 @@ docker-compose build web
 ```bash
 docker-compose up web
 ```
-3. Truy cập:
+3. Truy cập URL ở trình duyệt:
 ```bash
 http://localhost:8010
 ```
