@@ -1,7 +1,8 @@
 # The MovieGEEK - Hướng dẫn cài đặt
 
-Hướng dẫn này cung cấp các bước cài đặt phiên bản tinh chỉnh của The MovieGEEK để triển khai nhanh chóng và dễ dàng hơn
-[Nguồn](https://github.com/practical-recommender-systems/moviegeek)
+Hướng dẫn này cung cấp các bước cài đặt phiên bản tinh chỉnh của The MovieGEEK để triển khai nhanh chóng và dễ dàng hơn.
+
+[Nguồn chính của tác giả tại đây](https://github.com/practical-recommender-systems/moviegeek)
 
 ## Yêu cầu
 
