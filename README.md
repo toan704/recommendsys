@@ -5,7 +5,7 @@ Hướng dẫn này cung cấp các bước cài đặt phiên bản tinh chỉn
 ## Yêu cầu
 
 - Mã nguồn: Tải tại [MovieGEEK Custom](https://github.com/toan704/recommendsys)
-- Docker: Cài đặt từ [Docker](https://www.docker.com) (Khuyến nghị: Windows - AMD64)
+- Docker: Cài đặt từ [Docker](https://www.docker.com) (Khuyến nghị: Windows - AMD64). Đảm bảo đã đăng nhập và truy cập vào Docker
 
 ## Cấu hình API
 
