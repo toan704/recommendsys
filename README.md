@@ -33,6 +33,6 @@ docker-compose up web
 ```
 3. Truy cập:
 ```bash
-http://localhost:8010/
+http://localhost:8010
 ```
 Để dừng, hãy ấn `Ctrl+C`
