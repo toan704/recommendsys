@@ -44,10 +44,10 @@
                 <section id="requirements" class="space-y-8 p-8 bg-white rounded-2xl shadow-sm">
                     <h2 class="text-2xl font-bold text-slate-900 border-b pb-4">2. Yêu cầu hệ thống</h2>
                     <div class="p-6 bg-slate-100 rounded-lg">
-                        <p class="text-base text-slate-700">Đảm bảo rằng máy tính của bạn đã cài đặt <strong>Docker</strong> và bạn đã đăng nhập vào Docker. Đây là yêu cầu bắt buộc để chạy ứng dụng trong môi trường container.</p>
-                        <p class="mt-2 text-sm text-slate-500">Phiên bản đề xuất: Windows trên kiến trúc AMD64.</p>
-                        <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer" class="mt-4 inline-block bg-sky-500 text-white font-semibold py-2 px-4 rounded-lg hover:bg-sky-600 transition-colors duration-200">
-                            Tải xuống Docker 🐋
+                        <p class="text-base text-slate-700">Đảm bảo rằng máy tính macOS của bạn đã cài đặt <strong>Docker Desktop</strong> và bạn đã đăng nhập vào Docker. Đây là yêu cầu bắt buộc để chạy ứng dụng trong môi trường container.</p>
+                        <p class="mt-2 text-sm text-slate-500">Phiên bản đề xuất: macOS Ventura 13.0 hoặc cao hơn trên kiến trúc Apple Silicon (M1/M2) hoặc Intel.</p>
+                        <a href="https://www.docker.com/products/docker-desktop/" target="_blank" rel="noopener noreferrer" class="mt-4 inline-block bg-sky-500 text-white font-semibold py-2 px-4 rounded-lg hover:bg-sky-600 transition-colors duration-200">
+                            Tải xuống Docker Desktop cho macOS 🐋
                         </a>
                     </div>
                     <div>
@@ -110,7 +110,7 @@
                 </section>
                 <section id="launch" class="space-y-8 p-8 bg-white rounded-2xl shadow-sm">
                     <h2 class="text-2xl font-bold text-slate-900 border-b pb-4">5. Cài đặt & Khởi chạy</h2>
-                    <p class="text-slate-600">Sau khi hoàn tất các bước chuẩn bị, sử dụng các lệnh sau trong terminal tại thư mục gốc của dự án để khởi chạy ứng dụng.</p>
+                    <p class="text-slate-600">Sau khi hoàn tất các bước chuẩn bị, sử dụng các lệnh sau trong Terminal trên macOS tại thư mục gốc của dự án để khởi chạy ứng dụng.</p>
                     <div class="space-y-6">
                         <div>
                             <h3 class="font-semibold text-slate-800">Bước 1: Xây dựng Docker Image</h3>
@@ -128,14 +128,14 @@
                                 <button class="copy-btn bg-slate-600 text-slate-200 text-xs font-semibold py-1 px-3 rounded-md hover:bg-slate-500 transition-colors duration-200" data-clipboard-text="docker-compose up web">Sao chép</button>
                             </div>
                         </div>
-						 <div>
+                        <div>
                             <h3 class="font-semibold text-slate-800">Bước 3: Truy cập URL ở trình duyệt</h3>
-                            <p class="text-slate-600 mt-1 mb-2">URL <code class="bg-slate-200 text-slate-700 text-sm font-mono py-0.5 px-1 rounded">web</code> dựa trên các cấu hình trong dự án.</p>
+                            <p class="text-slate-600 mt-1 mb-2">Mở trình duyệt và truy cập ứng dụng tại URL sau.</p>
                             <div class="bg-slate-800 rounded-lg p-4 flex items-center justify-between">
                                 <pre><code class="text-white font-mono text-sm">http://localhost:8010</code></pre>
-                                <button class="copy-btn bg-slate-600 text-slate-200 text-xs font-semibold py-1 px-3 rounded-md hover:bg-slate-500 transition-colors duration-200" data-clipboard-text="docker-compose build web">Sao chép</button>
+                                <button class="copy-btn bg-slate-600 text-slate-200 text-xs font-semibold py-1 px-3 rounded-md hover:bg-slate-500 transition-colors duration-200" data-clipboard-text="http://localhost:8010">Sao chép</button>
                             </div>
-							 <p class="text-xs text-slate-500 mt-2">Để dừng ứng dụng, nhấn <code class="bg-slate-200 text-slate-700 text-sm font-mono py-0.5 px-1 rounded">Ctrl+C</code> trong terminal.</p>
+                            <p class="text-xs text-slate-500 mt-2">Để dừng ứng dụng, nhấn <code class="bg-slate-200 text-slate-700 text-sm font-mono py-0.5 px-1 rounded">Ctrl+C</code> trong Terminal.</p>
                         </div>
                     </div>
                 </section>

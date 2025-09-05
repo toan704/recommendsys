@@ -18,6 +18,7 @@ Nguồn chính của tác giả: [Tại đây](https://github.com/practical-reco
 
 1. Tại thư mục gốc của dự án. Chạy file `setup.bat`
 2. Nhập API Key đã lưu và Enter để quá trình thiết lập bắt đầu
+
 Lưu ý: Đảm bảo Docker đang được mở
 
 ## Khởi chạy và truy cập
