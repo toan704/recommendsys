@@ -16,18 +16,13 @@ Nguồn chính của tác giả: [Tại đây](https://github.com/practical-reco
 
 ## Thiết lập ban đầu
 
-1. Giải nén file `moviegeek_config.zip` vào thư mục gốc của dự án.
-2. Mở file `.prs` và nhập API Key đã nhận
-3. Kiểm tra ở thư mục gốc đảm bảo xuất hiện 2 files: `.prs` và `db.sqlite3`
+1. Tại thư mục gốc của dự án. Chạy file `setup.bat`
+2. Nhập API Key đã lưu và Enter để quá trình thiết lập bắt đầu
+Lưu ý: Đảm bảo Docker đang được mở
 
-## Cài đặt và khởi chạy
+## Khởi chạy và truy cập
 
-1. Xây dựng ứng dụng cùng các thư viện:
-
-```bash
-docker-compose build web
-```
-2. Khởi chạy:
+1. Khởi chạy:
 ```bash
 docker-compose up web
 ```
