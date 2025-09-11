@@ -14,6 +14,8 @@ Nguồn chính của tác giả: [Tại đây](https://github.com/practical-reco
 1. Truy cập [Themoviedb](https://www.themoviedb.org/account/signup) và đăng ký tài khoản.
 2. Đăng nhập, vào Settings > API, tạo API Key và lưu lại API Key.
 
+Trường hợp Web bị lỗi có thể sử dụng API_Key cộng đồng: `e24ba4338e5ee901917469f1a3265b85`
+
 ## Thiết lập ban đầu
 
 1. Tại thư mục gốc của dự án. Chạy file `setup.bat`
@@ -27,7 +29,7 @@ Lưu ý: Đảm bảo Docker đang được mở
 ```bash
 docker-compose up web
 ```
-3. Truy cập URL ở trình duyệt:
+2. Truy cập URL ở trình duyệt:
 ```bash
 http://localhost:8010
 ```
