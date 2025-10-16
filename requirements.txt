@@ -30,3 +30,7 @@ stop-words==2015.2.23.1
 tqdm==4.28.1
 urllib3==1.26.5
 pyLDAvis==2.1.1
+django-extensions
+django==3.2.25
+gensim
+pandas
