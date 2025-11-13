@@ -1,4 +1,4 @@
-# <span style="color: #007ACC;">CÁCH 1: DOCKER</span>
+# <span style="color: #007ACC;">CÁCH 1: DOCKER kkk</span>
 ## The MovieGEEK - Hướng dẫn cài đặt
 
 Hướng dẫn này cung cấp các bước cài đặt phiên bản tinh chỉnh của The MovieGEEK để triển khai nhanh chóng và dễ dàng hơn theo (Cách 1) Docker.
