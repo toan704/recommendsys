@@ -1,5 +1,5 @@
 # CÁCH 1: DOCKER
-# The MovieGEEK - Hướng dẫn cài đặt
+## The MovieGEEK - Hướng dẫn cài đặt
 
 Hướng dẫn này cung cấp các bước cài đặt phiên bản tinh chỉnh của The MovieGEEK để triển khai nhanh chóng và dễ dàng hơn theo (Cách 1) Docker.
 
@@ -37,3 +37,5 @@ docker-compose up web
 http://localhost:8010
 ```
 Để dừng, hãy ấn `Ctrl+C`
+
+Contact me: [Hoàng Kim Toản - Toan704](https://www.facebook.com/toan704)
