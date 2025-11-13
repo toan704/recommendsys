@@ -1,12 +1,12 @@
-# The MovieGEEK - Hướng dẫn cài đặt
+# The MovieGEEK - Hướng dẫn cài đặt theo Docker (Cách 1)
 
-Hướng dẫn này cung cấp các bước cài đặt phiên bản tinh chỉnh của The MovieGEEK để triển khai nhanh chóng và dễ dàng hơn.
-
+Hướng dẫn này cung cấp các bước cài đặt phiên bản tinh chỉnh của The MovieGEEK để triển khai nhanh chóng và dễ dàng hơn theo (Cách 1) Docker.
+Ngoài ra, có thể cài đặt theo (Cách 2) trực tiếp: tại đây (khuyến nghị: phù hợp với nhiều bài lab trong sách cần tương tác trực tiếp và dễ tiếp cận)
 Nguồn chính của tác giả: [Tại đây](https://github.com/practical-recommender-systems/moviegeek)
 
 ## Yêu cầu
 
-- Mã nguồn được tinh chỉnh: Tải tại [MovieGEEK Custom](https://github.com/toan704/recommendsys)
+- Mã nguồn được tinh chỉnh dành cho Docker: Tải tại [MovieGEEK Custom](https://github.com/toan704/recommendsys)
 - Docker: Cài đặt từ [Docker](https://www.docker.com) (Khuyến nghị: Windows - AMD64). Đảm bảo đã đăng nhập và truy cập vào Docker
 
 ## Cấu hình API
