@@ -1,4 +1,5 @@
-# The MovieGEEK - Hướng dẫn cài đặt theo Docker (Cách 1)
+# CÁCH 1: DOCKER
+# The MovieGEEK - Hướng dẫn cài đặt
 
 Hướng dẫn này cung cấp các bước cài đặt phiên bản tinh chỉnh của The MovieGEEK để triển khai nhanh chóng và dễ dàng hơn theo (Cách 1) Docker.
 
